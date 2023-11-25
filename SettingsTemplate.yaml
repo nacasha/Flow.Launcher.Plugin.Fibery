@@ -1,0 +1,24 @@
+body:
+  - type: input
+    attributes:
+      name: keyword
+      label: 'Action keyword (Put same value as action keyword for plugin). Workaround for a while'
+      defaultValue: "fib"
+  - type: input
+    attributes:
+      name: account
+      label: 'Account'
+      defaultValue: ""
+  - type: passwordBox
+    attributes:
+      name: api_token
+      label: 'API Token'
+      defaultValue: ""
+  - type: dropdown
+    attributes:
+      name: search_mode
+      label: 'Search Mode'
+      defaultValue: 'Offline'
+      options:
+        - Online
+        - Offline

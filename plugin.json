@@ -1,0 +1,12 @@
+{
+  "ID":"60109a7148b84ddbb96eacb73785d1f0",
+  "ActionKeyword":"fib",
+  "Name":"Fibery",
+  "Description":"Search for Fibery entities on your workspace",
+  "Author":"Izal Fathoni",
+  "Version":"0.0.1",
+  "Language":"javascript",
+  "Website":"https://github.com/nacasha",
+  "IcoPath": "./images/fibery.ico",
+  "ExecuteFileName":"src/main.js"
+}

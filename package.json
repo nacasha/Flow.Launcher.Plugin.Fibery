@@ -1,0 +1,12 @@
+{
+	"dependencies": {
+		"fibery-unofficial": "^0.2.1",
+		"file-system-db": "^2.0.0",
+		"js-flipper": "^0.212.0",
+		"json-records": "^2.0.1",
+		"lowdb": "^6.1.1",
+		"node-ray": "^1.21.0",
+		"open": "^8.4.0",
+		"ws": "^8.14.2"
+	}
+}
