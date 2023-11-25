@@ -2,11 +2,13 @@
   "ID":"60109a7148b84ddbb96eacb73785d1f0",
   "ActionKeyword":"fib",
   "Name":"Fibery",
-  "Description":"Search for Fibery entities on your workspace",
+  "Description":"Search Fibery schemas and entities on your workspace",
   "Author":"Izal Fathoni",
-  "Version":"0.0.1",
+  "Version":"1.0.0",
   "Language":"javascript",
-  "Website":"https://github.com/nacasha",
-  "IcoPath": "./images/fibery.ico",
+  "Website":"https://github.com/nacasha/Flow.Launcher.Plugin.Fibery",
+  "UrlDownload": "https://github.com/nacasha/Flow.Launcher.Plugin.Fibery/releases/download/v1.0.0/Flow.Launcher.Plugin.Fibery.zip.zip",
+  "UrlSourceCode": "https://github.com/nacasha/Flow.Launcher.Plugin.Fibery/tree/main",
+  "IcoPath": "https://cdn.jsdelivr.net/gh/nacasha/Flow.Launcher.Plugin.Fibery@main/images/fibery.ico",
   "ExecuteFileName":"src/main.js"
 }
